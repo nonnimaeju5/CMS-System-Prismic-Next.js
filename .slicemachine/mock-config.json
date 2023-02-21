@@ -1,0 +1,14 @@
+{
+  "slices": {
+    "HeroSlice": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "ImageGrid": {}
+  },
+  "_cts": {
+    "homepage": {},
+    "about": {}
+  }
+}
