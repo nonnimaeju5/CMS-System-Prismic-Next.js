@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { SliceSimulator } from '@prismicio/slice-simulator-react'
 import { SliceZone } from '@prismicio/react'
 
